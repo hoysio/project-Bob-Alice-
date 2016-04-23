@@ -2,13 +2,14 @@ Class WhatIsGit
 
 def show
 
-	put "Git is easy if you understands basis."
+        "http://wwwqdwqdwwd/Git"
 
 end
 
+def show
 
-def help 
-	# コードは未定
+	put "Git is easy if you understands basis."
+
 end
 
 
