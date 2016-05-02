@@ -2,7 +2,7 @@ Class WhatIsGit
 
 def show
 
-        "http://wwwqdwqdwwd/Git"
+        "http://en.wwwqdwqdwwd/Git"
 
 end
 
