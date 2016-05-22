@@ -1,14 +1,14 @@
 Class WhatIsGit
 
-def show
+def about
 
-        "http://en.wwwqdwqdwwd/Git"
+        puts "http://en.wwwqdwqdwwd/Git"
 
 end
 
 def show
 
-	put "Git is easy if you understands basis."
+	puts "if you understands basis, Git is easy."
 
 end
 
