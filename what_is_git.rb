@@ -1,8 +1,8 @@
 Class WhatIsGit
 
-def show
+def about(lang = 'en')
 
-        "http://en.wwwqdwqdwwd/Git"
+        "http://#{lang}.wwwqdwqdwwd/Git"
 
 end
 
