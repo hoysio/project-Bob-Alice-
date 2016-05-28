@@ -1,8 +1,9 @@
 Class WhatIsGit
 
-def about
 
-        puts "http://en.wwwqdwqdwwd/Git"
+def about(lang = 'en')
+
+        "http://#{lang}.wwwqdwqdwwd/Git"
 
 end
 
