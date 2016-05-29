@@ -9,7 +9,7 @@ end
 
 def show
 
-	puts "if you understands basis, Git is easy."
+	puts "If you understands basis, Git is easy."
 
 end
 
