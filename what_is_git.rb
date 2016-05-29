@@ -7,9 +7,9 @@ def about(lang = 'en')
 
 end
 
-def show
+def show(mag = 'eazy!')
 
-	puts "if you understands basis, Git is easy."
+	puts "Git is #{mag}"
 
 end
 
